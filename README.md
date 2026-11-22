@@ -20,7 +20,7 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de ponta a ponta com **Next.js, React, Node.js e TypeScript** e tenho uma plataforma SaaS rodando com **5 clientes ativos**. Também venho de suporte técnico e operações, então gosto de resolver problema de verdade e entregar no prazo.
+Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de ponta a ponta com **Next.js, React, Node.js e TypeScript** e tenho uma plataforma SaaS rodando. Também venho de suporte técnico e operações, então gosto de resolver problema de verdade e entregar no prazo.
 
 - 🚀 Mantendo e evoluindo o **EasyCleanQuote**, um SaaS para empresas de limpeza nos EUA
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no SENAC (conclusão em 2028)
