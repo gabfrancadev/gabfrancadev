@@ -62,7 +62,7 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
   <tr>
     <td width="50%" valign="top">
       <h3>🧹 EasyCleanQuote</h3>
-      <p>SaaS para empresas de limpeza nos EUA: agendamento inteligente, controle financeiro e automação de aquisição de clientes. <b>5 clientes ativos</b>, em evolução contínua.</p>
+      <p>SaaS para empresas de limpeza nos EUA: agendamento inteligente, controle financeiro e automação de aquisição de clientes. <b>clientes ativos</b>, em evolução contínua.</p>
       <p><b>Next.js · Node.js</b></p>
       <a href="https://easycleanquote.com">🔗 easycleanquote.com</a>
     </td>
