@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfrancadev)
-[![Gmail](https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabfrancadev@gmail.com)
-[![EasyCleanQuote](https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://easycleanquote.com)
+[[https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white]](https://linkedin.com/in/gabrielfrancadev)
+[[https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white]](mailto:gabfrancadev@gmail.com)
+[[https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white]](https://easycleanquote.com)
 
 <img src="https://komarev.com/ghpvc/?username=gabfrancadev&color=1F4E9C&style=flat-square&label=Visitas" alt="Visitas" />
 
@@ -62,7 +62,7 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
   <tr>
     <td width="50%" valign="top">
       <h3>🧹 EasyCleanQuote</h3>
-      <p>SaaS para empresas de limpeza nos EUA: agendamento inteligente, controle financeiro e automação de aquisição de clientes. <b>clientes ativos</b>, em evolução contínua.</p>
+      <p>SaaS para empresas de limpeza nos EUA: agendamento inteligente, controle financeiro e automação de aquisição de clientes. <b>Clientes ativos</b>, em evolução contínua.</p>
       <p><b>Next.js · Node.js</b></p>
       <a href="https://easycleanquote.com">🔗 easycleanquote.com</a>
     </td>
@@ -78,6 +78,7 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
       <h3>📝 Justificativa de Indicadores Operacionais (V.tal)</h3>
       <p>App corporativo que substituiu a coleta manual de justificativas de indicadores de fibra óptica por um fluxo padronizado (fato, causa, ação, responsável e prazo). Usado por um setor inteiro, com acesso para toda a operação.</p>
       <p><b>Power Apps · SharePoint · Power Fx</b></p>
+      <a href="https://github.com/gabfrancadev/v.tal-justificativa">🔗 Ver estudo de caso</a>
     </td>
   </tr>
 </table>
