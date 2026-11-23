@@ -8,9 +8,15 @@
 
 <br/>
 
-[[https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white]](https://linkedin.com/in/gabrielfrancadev)
-[[https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white]](mailto:gabfrancadev@gmail.com)
-[[https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white]](https://easycleanquote.com)
+<a href="https://linkedin.com/in/gabrielfrancadev">
+  <img src="https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gabfrancadev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://easycleanquote.com">
+  <img src="https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EasyCleanQuote" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=gabfrancadev&color=1F4E9C&style=flat-square&label=Visitas" alt="Visitas" />
 
