@@ -2,23 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E9C&height=200&section=header&text=Gabriel%20Fran%C3%A7a&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descAlignY=68&descSize=20" alt="Banner" />
 
-<a href="https://github.com/gabfrancadev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F4E9C&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aberto+a+oportunidades+j%C3%BAnior+e+est%C3%A1gio" alt="Typing SVG" />
-</a>
+<p>
+  <a href="https://github.com/gabfrancadev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F4E9C&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aberto+a+oportunidades+j%C3%BAnior+e+est%C3%A1gio" alt="Typing SVG" /></a>
+</p>
 
-<br/>
+<p>
+  <a href="https://linkedin.com/in/gabrielfrancadev"><img src="https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gabfrancadev@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://easycleanquote.com"><img src="https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EasyCleanQuote" /></a>
+</p>
 
-<a href="https://linkedin.com/in/gabrielfrancadev">
-  <img src="https://img.shields.io/badge/LinkedIn-1F4E9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gabfrancadev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1F4E9C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://easycleanquote.com">
-  <img src="https://img.shields.io/badge/EasyCleanQuote-1F4E9C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EasyCleanQuote" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=gabfrancadev&color=1F4E9C&style=flat-square&label=Visitas" alt="Visitas" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gabfrancadev&color=1F4E9C&style=flat-square&label=Visitas" alt="Visitas" />
+</p>
 
 </div>
 
@@ -136,10 +132,14 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabfrancadev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfrancadev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabfrancadev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfrancadev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=gabfrancadev&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=gabfrancadev&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+</p>
 
 </div>
 
@@ -147,7 +147,7 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
 
 <div align="center">
 
-**Vamos conversar?** Me chama no [LinkedIn](https://linkedin.com/in/gabrielfrancadev) ou por [e-mail](mailto:gabfrancadev@gmail.com) 🚀
+<p><b>Vamos conversar?</b> Me chama no <a href="https://linkedin.com/in/gabrielfrancadev">LinkedIn</a> ou por <a href="mailto:gabfrancadev@gmail.com">e-mail</a> 🚀</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E9C&height=100&section=footer" alt="Rodapé" />
 
