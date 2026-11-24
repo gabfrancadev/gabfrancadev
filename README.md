@@ -140,8 +140,16 @@ Sou desenvolvedor Full Stack Júnior de Recife (PE). Construo produtos web de po
 <div align="center">
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabfrancadev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=2" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfrancadev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=2" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/gabfrancadev/gabfrancadev/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil" />
+</p>
+
+<p>
+  <img height="180" src="https://raw.githubusercontent.com/gabfrancadev/gabfrancadev/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
+  <img height="180" src="https://raw.githubusercontent.com/gabfrancadev/gabfrancadev/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais commitadas" />
+</p>
+
+<p>
+  <img height="180" src="https://raw.githubusercontent.com/gabfrancadev/gabfrancadev/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários produtivos" />
 </p>
 
 <p>
